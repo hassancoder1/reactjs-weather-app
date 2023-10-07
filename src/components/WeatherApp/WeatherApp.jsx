@@ -13,7 +13,7 @@ import humidity_icon from '../assets/humidity.png'
 
 const WheatherApp = () => {
 
-  let api_key = "24fb562c0f222f31ba1a685fcc257c63";
+  let api_key = "YOUR_API_KEY";
   const [wicon, setwicon] = useState(cloud_icon);
 
   const search = async () =>{
