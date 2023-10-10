@@ -21,7 +21,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/hassancoder1/reactjs-weather-app.git
    cd weather-app
    ```
 
@@ -54,7 +54,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Contributing
 
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
